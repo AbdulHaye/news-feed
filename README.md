@@ -9,5 +9,6 @@ This project implements a real-time newsfeed using React, WebSocket, and hooks (
 1. Clone the repository:
    ```bash
    git clone https://github.com/AbdulHaye/news-feed.git
-   cd real-time-newsfeed
+   npm i
+   npm run start
 
